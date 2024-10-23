@@ -1,0 +1,17 @@
+graph {
+	Encantado -- Lajeado [label=2]
+	Lajeado -- "Venâncio Aires" [label=30]
+	Lajeado -- Soledade [label=70]
+	"Arroio do Meio" -- Encantado [label=10]
+	"Arroio do Meio" -- Lajeado [label=2]
+	Arvorezinha -- Encantado [label=30]
+	Arvorezinha -- Encantado [label=30]
+	"Carlos Barbosa" -- Encantado [label=45]
+	"Carlos Barbosa" -- "Teutônia" [label=30]
+	"Carlos Barbosa" -- Encantado [label=45]
+	Estrela -- Lajeado [label=2]
+	Estrela -- "Teutônia" [label=15]
+	"Bom Retiro do Sul" -- Estrela [label=12]
+	"Bom Retiro do Sul" -- "Venâncio Aires" [label=12]
+	Taquari -- "Teutônia" [label=25]
+}
